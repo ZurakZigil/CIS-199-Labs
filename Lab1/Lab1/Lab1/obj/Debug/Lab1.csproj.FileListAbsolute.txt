@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive - University of Louisville 1\5 - CIS 199-01\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\chris\OneDrive - University of Louisville 1\5 - CIS 199-01\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\chris\OneDrive - University of Louisville 1\5 - CIS 199-01\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\chris\OneDrive - University of Louisville 1\5 - CIS 199-01\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive - University of Louisville 1\5 - CIS 199-01\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - University of Louisville 1\5 - CIS 199-01\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\chris\OneDrive - University of Louisville 1\5 - CIS 199-01\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb

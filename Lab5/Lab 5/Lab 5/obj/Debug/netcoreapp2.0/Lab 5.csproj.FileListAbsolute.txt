@@ -1,0 +1,11 @@
+C:\Users\chris\OneDrive - University of Louisville\5 - CIS 199-01\Lab5\Lab 5\Lab 5\bin\Debug\netcoreapp2.0\Lab 5.deps.json
+C:\Users\chris\OneDrive - University of Louisville\5 - CIS 199-01\Lab5\Lab 5\Lab 5\bin\Debug\netcoreapp2.0\Lab 5.runtimeconfig.json
+C:\Users\chris\OneDrive - University of Louisville\5 - CIS 199-01\Lab5\Lab 5\Lab 5\bin\Debug\netcoreapp2.0\Lab 5.runtimeconfig.dev.json
+C:\Users\chris\OneDrive - University of Louisville\5 - CIS 199-01\Lab5\Lab 5\Lab 5\bin\Debug\netcoreapp2.0\Lab 5.dll
+C:\Users\chris\OneDrive - University of Louisville\5 - CIS 199-01\Lab5\Lab 5\Lab 5\bin\Debug\netcoreapp2.0\Lab 5.pdb
+C:\Users\chris\OneDrive - University of Louisville\5 - CIS 199-01\Lab5\Lab 5\Lab 5\obj\Debug\netcoreapp2.0\Lab 5.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive - University of Louisville\5 - CIS 199-01\Lab5\Lab 5\Lab 5\obj\Debug\netcoreapp2.0\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - University of Louisville\5 - CIS 199-01\Lab5\Lab 5\Lab 5\obj\Debug\netcoreapp2.0\Lab 5.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive - University of Louisville\5 - CIS 199-01\Lab5\Lab 5\Lab 5\obj\Debug\netcoreapp2.0\Lab 5.AssemblyInfo.cs
+C:\Users\chris\OneDrive - University of Louisville\5 - CIS 199-01\Lab5\Lab 5\Lab 5\obj\Debug\netcoreapp2.0\Lab 5.dll
+C:\Users\chris\OneDrive - University of Louisville\5 - CIS 199-01\Lab5\Lab 5\Lab 5\obj\Debug\netcoreapp2.0\Lab 5.pdb
